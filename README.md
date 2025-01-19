@@ -7,7 +7,7 @@
 <h3 align="center">Bon si vous êtes tombé sur moi par hasard et bien désolé mais ne partez pas tout de suite ça vous intéressera p'têtre ce qui se dit ici. Alors petit pavé juste entre vous et moi, et si vous avez la flemme, eh bien ça se passe en bas</h3>
 
 <p align="center">
-  Déjà je sais ce que vous vous dites : c'est qui ce mongole, il se croit sur LinkedIn. Eh bien figurez-vous que c'est juste que je trouve les Overview GitHub assez chiants en général. Ça collectionne les badges et widgets (je fais pareil mais laissez-moi critiquer), et je trouve ça assez classique alors comme j'aime bien écrire, j'ai décidé que j'allais ajouter des conneries partout pour le plaisir tout en gardant un certain standard dans mes projets.
+  Déjà je sais ce que vous vous dites : c'est qui ce mongole, il se croit sur LinkedIn. Eh bien figurez-vous que c'est juste que je trouve les Overview GitHub assez chiantes en général. Ça collectionne les badges et widgets (je fais pareil mais laissez-moi critiquer), et je trouve ça assez classique alors comme j'aime bien écrire, j'ai décidé que j'allais ajouter des conneries partout pour le plaisir tout en gardant un certain standard dans mes projets.
   Oui je sais, vous allez me dire "Mais Greg t'es con, c'est un compte pro, c'est sérieux bla bla bla". C'est vrai, mais je pense que c'est plus intéressant un profil de guignol compétent que celui d'un normie fadasse. Et ne vous inquiétez pas, je sais me tenir : les communications pro avec des collègues, supérieurs, prestataires et clients, ça me connaît, je l'ai fait pendant 10 ans en tant que directeur de structure d'accueil, mais peu importe.
 </p>
 
@@ -34,13 +34,22 @@
 
 ---
 
-<h2 align="center">🚀 Projets récents à 42</h2>
+<h2 align="center">🚀 Projets en cours à 42</h2>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+- [Webserv](https://github.com/Gregory-Marquiset/mcg_webserv) :
+  - Un projet en trinôme où l'objectif est de recréer un server web en C++.
+  - Des notions intéressantes sont abordées, comme les méthodes HTTP, la communication client-serveur, les CGI, et bien plus.
+---
+
+<h2 align="center">🛰️ Projets récents à 42</h2>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 - [Minishell](https://github.com/jeportie/Minishell) :
   - Un projet en binôme où l'objectif est de recréer un petit shell bash --posix en C.
-  - Beaucoup de notions comme la tokenization, les AST, la gestion d'erreurs, les signaux, etc...
+  - Beaucoup de notions comme la tokenization, les AST, la gestion d'erreurs, les signaux.
 - [Philosopher](https://github.com/Gregory-Marquiset/gm_philosopher) :
   - Le classique problème du Philosopher's dinner dans le domaine du multithreading.
 - [Cube3D](https://github.com/WPMad51/Cub3d) :
