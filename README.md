@@ -41,6 +41,10 @@
 - [Webserv](https://github.com/Gregory-Marquiset/mcg_webserv) :
   - Un projet en trinôme où l'objectif est de recréer un server web en C++.
   - Des notions intéressantes sont abordées, comme les méthodes HTTP, la communication client-serveur, les CGI, et bien plus.
+
+- [Piscine cpp](https://github.com/Gregory-Marquiset/gm_cpp) :
+  - Ce projet a pour but de faire découvrir et maîtriser le langage C++ par le biais d'exercices de plus en plus complexes.
+
 ---
 
 <h2 align="center">🛰️ Projets récents à 42</h2>
