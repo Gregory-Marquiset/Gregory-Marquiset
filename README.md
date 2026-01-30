@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://profile.intra.42.fr/users/gmarquis">
-    <img src="https://badge.mediaplus.ma/greenbinary/gmarquis?1337Badge=off&UM6P=off" alt="Greg's 42 Badge" />
+    <img alt="Gregory's 42 stats" src="https://badge.mediaplus.ma/darkblue/gmarquis?1337Badge=off&UM6P=off" />
   </a>
 </p>
 
@@ -10,28 +10,32 @@
 
 <h2 align="center">🚀 Projets en cours à 42</h2>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- [Webserv](https://github.com/Gregory-Marquiset/mcg_webserv) :
-  - Un projet en trinôme où l'objectif est de recréer un server web en C++.
-  - Des notions intéressantes sont abordées, comme les méthodes HTTP, la communication client-serveur, les CGI, et bien plus.
-
-- [Piscine cpp](https://github.com/Gregory-Marquiset/gm_cpp) :
-  - Ce projet a pour but de faire découvrir et maîtriser le langage C++ par le biais d'exercices de plus en plus complexes.
+- [Trascendence](https://github.com/Gregory-Marquiset/llmcg_transcendence)
+  - Objectif : réaliser à 5 une application web complète (frontend + backend + base de données), déployée via une solution de conteneurisation et lançable en une seule commande, avec support multi-utilisateurs et interactions en temps réel.
+  - Responsabilités : Project Owner / DevOps.
+  - Notions : CI/CD via GitHub Actions (workflows, rulesets et tests unitaires en Bash), analyse de métriques (Prometheus et Grafana), gestion des logs ELK (Elasticsearch, Logstash, Kibana), documentation et backlogs du projet.
 
 ---
 
 <h2 align="center">🛰️ Projets récents à 42</h2>
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+
+- [Inception](https://github.com/Gregory-Marquiset/gm_inception)
+  - Objectif : monter un site WordPress via Nginx et MariaDB, le tout en microservices, avec divers services annexes comme Adminer et Portainer.
+  - Notions : Docker, Docker Compose, et tous les systèmes associés.
+- [Webserv](https://github.com/Gregory-Marquiset/mcg_webserv) :
+  - Objectif: un projet en trinôme qui a pour but de recréer un server web en C++.
+  - Notions: protocole HTTP, la communication client-serveur, les CGI, et bien plus.
 - [Minishell](https://github.com/jeportie/Minishell) :
-  - Un projet en binôme où l'objectif est de recréer un petit shell bash --posix en C.
-  - Beaucoup de notions comme la tokenization, les AST, la gestion d'erreurs, les signaux.
+  - Objectif: recréer un petit shell bash --posix en C et en binôme .
+  - Notions: tokenization, les AST, la gestion d'erreurs, les signaux.
 - [Philosopher](https://github.com/Gregory-Marquiset/gm_philosopher) :
-  - Le classique problème du Philosopher's dinner dans le domaine du multithreading.
-- [Cube3D](https://github.com/WPMad51/Cub3d) :
-  - Un projet où je me suis occupé du ray casting pour créer une 3D à la Wolfenstein avec mon mate.
+  - Objectif: problème du Philosopher's dinner dans le domaine du multithreading.
+  - Notions : algorithmie concurrentielle
 
 ---
 
