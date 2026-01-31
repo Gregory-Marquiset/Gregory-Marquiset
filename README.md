@@ -1,6 +1,4 @@
-<h1 align="center">Je suis Gregory actuellement en formation à l'école 42 Paris :</h1>
-
-Après une carrière dans l’animation socio-culturelle, je me suis reconverti dans le développement logiciel et je me spécialise aujourd’hui en **DevOps**.
+Après une carrière dans l’animation socio-culturelle en tant qu'animateur puis directeur, je me suis reconverti dans le développement logiciel et je me spécialise aujourd’hui en **DevOps**.
 
 Fort d’une solide expérience en **C/C++**, je conçois des systèmes **fiables**, **performants** et **maintenables**, avec un intérêt particulier pour:
 - l’**automatisation**
@@ -88,8 +86,3 @@ Curieux et polyvalent, j’aime optimiser les workflows, résoudre des probléma
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gregory-Marquiset&layout=compact&theme=radical&title_color=4c589c" alt="Langages principaux">
-</p>
-
