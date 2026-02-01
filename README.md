@@ -79,9 +79,9 @@ Curieux et polyvalent, j’aime optimiser les workflows, résoudre des probléma
 
 <h3 align="center">🚀 En cours</h3>
 
-- [Server performance stats](https://github.com/Gregory-Marquiset/gm_roadmap_sps)
-  - Objectif : créer un script **Bash** portable (exécutable sur n’importe quel serveur **Linux**) pour afficher rapidement les statistiques essentielles de performance et aider au diagnostic.
-  - Notions : monitoring basique Linux, analyse CPU/RAM/disque, inspection des processus (top CPU / top mémoire), debugging et compréhension des performances serveur.
+- [marquis_tidal_prod](https://github.com/Gregory-Marquiset/marquis_tidal_prod)
+  - Objectif : concevoir un environnement de **live coding musical** reproductible et portable basé sur **Tidal Cycles**, permettant de composer et performer sans dépendre de l’installation locale (audio, langages, outils).
+  - Notions : live coding music (Tidal Cycles), SuperCollider / SuperDirt, conteneurisation **Docker**, configuration audio host↔container (PulseAudio), reproductibilité des environnements, automatisation du démarrage et outillage tooling (Emacs + tidal-mode).
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
