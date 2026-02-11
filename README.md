@@ -18,6 +18,22 @@ Curieux et polyvalent, j’aime optimiser les workflows, résoudre des probléma
 
 <h3 align="center">🚀 En cours</h3>
 
+- [Inception of Things](https://github.com/Gregory-Marquiset/jjg_inception_of_things)
+  - Objectif : découvrir et mettre en place un environnement Kubernetes minimaliste en utilisant K3s et K3d, avec déploiement d’applications conteneurisées, gestion d’Ingress, et mise en place d’un workflow GitOps via Argo CD.
+  - Responsabilités : conception de l’architecture, automatisation de l’installation (scripts), configuration Kubernetes (namespaces, deployments, services, ingress), mise en place d’Argo CD et gestion des versions applicatives.
+  - Notions : virtualisation avec Vagrant, orchestration Kubernetes (K3s/K3d), conteneurisation Docker, Ingress Controller, GitOps, CI/CD, gestion de namespaces, déploiement automatisé via repository GitHub, scripting Bash.
+
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![K3s](https://img.shields.io/badge/K3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=black)
+![K3d](https://img.shields.io/badge/K3d-0A0A0A?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitOps](https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+<h3 align="center">🛰️ Récents</h3>
+
 - [Trascendence](https://github.com/Gregory-Marquiset/llmcg_transcendence)
   - Objectif : réaliser à 5 une application web complète (frontend + backend + base de données), déployée via une solution de conteneurisation et lançable en une seule commande, avec support multi-utilisateurs et interactions en temps réel.
   - Responsabilités : Project Owner / DevOps.
@@ -31,8 +47,6 @@ Curieux et polyvalent, j’aime optimiser les workflows, résoudre des probléma
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
-
-<h3 align="center">🛰️ Récents</h3>
 
 - [Inception](https://github.com/Gregory-Marquiset/gm_inception)
   - Objectif : monter un site WordPress via Nginx et MariaDB, le tout en microservices, avec divers services annexes comme Adminer et Portainer.
@@ -52,12 +66,6 @@ Curieux et polyvalent, j’aime optimiser les workflows, résoudre des probléma
   - Objectif: recréer un petit shell bash --posix en C et en binôme.
   - Responsabilités : Architecture, pasring, build-in et gestion d'erreur.
   - Notions: tokenization, les AST, la gestion d'erreurs, les signaux.
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-- [Philosopher](https://github.com/Gregory-Marquiset/gm_philosopher) :
-  - Objectif: problème du Philosopher's dinner dans le domaine du multithreading.
-  - Notions : algorithmie concurrentielle
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
