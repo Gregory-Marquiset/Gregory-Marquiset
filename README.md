@@ -1,9 +1,11 @@
 Après une carrière dans l’animation socio-culturelle en tant qu'animateur puis directeur, je me suis reconverti dans le développement logiciel et je me spécialise aujourd’hui en **DevOps**.
 
-Fort d’une solide expérience en **C/C++**, je conçois des systèmes **fiables**, **performants** et **maintenables**, avec un intérêt particulier pour:
-- l’**automatisation**
+Fort d’une solide expérience en algorithmique **C/C++**, je m'oriente desormais sur un profile DevSecOps et conçois des systèmes **fiables**, **performants** et **maintenables**, avec un intérêt particulier pour:
 - le **CI/CD**
-- les **environnements de développement**
+- la **reproductibiliter / scalabiliter**
+- l’**automatisation** (test, procédure)
+- l'**observabilité** (metrics, logs)
+- La **securité** (Vault/ WAF)
 
 Curieux et polyvalent, j’aime optimiser les workflows, résoudre des problématiques techniques complexes, et partager mes connaissances au sein des équipes.
 
