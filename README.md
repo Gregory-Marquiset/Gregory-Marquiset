@@ -64,20 +64,13 @@ Curieux et polyvalent, j’aime optimiser les workflows, résoudre des probléma
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- [Minishell](https://github.com/jeportie/Minishell) :
-  - Objectif: recréer un petit shell bash --posix en C et en binôme.
-  - Responsabilités : Architecture, pasring, build-in et gestion d'erreur.
-  - Notions: tokenization, les AST, la gestion d'erreurs, les signaux.
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
 ---
 
 <h2 align="center">Projets roadmap.sh</h2>
 
 <h3 align="center">🚀 En cours</h3>
 
-- [Server performance stats](https://github.com/Gregory-Marquiset/gm_roadmap_sps)
+- [Server performance stats](https://github.com/Gregory-Marquiset/roadmap_sps)
   - Objectif : créer un script **Bash** portable (exécutable sur n’importe quel serveur **Linux**) pour afficher rapidement les statistiques essentielles de performance et aider au diagnostic.
   - Notions : monitoring basique Linux, analyse CPU/RAM/disque, inspection des processus (top CPU / top mémoire), debugging et compréhension des performances serveur.
 
@@ -89,10 +82,34 @@ Curieux et polyvalent, j’aime optimiser les workflows, résoudre des probléma
 
 <h3 align="center">🚀 En cours</h3>
 
-- [marquis_tidal_prod](https://github.com/Gregory-Marquiset/marquis_tidal_prod)
-  - Objectif : concevoir un environnement de **live coding musical** reproductible et portable basé sur **Tidal Cycles**, permettant de composer et performer sans dépendre de l’installation locale (audio, langages, outils).
-  - Notions : live coding music (Tidal Cycles), SuperCollider / SuperDirt, conteneurisation **Docker**, configuration audio host↔container (PulseAudio), reproductibilité des environnements, automatisation du démarrage et outillage tooling (Emacs + tidal-mode).
+- [DevSecOps Platform](https://github.com/Gregory-Marquiset/marquis_devsecops_platform)
+  - Objectif : réaliser en solo une application web sécurisée (frontend + backend + base de données) en architecture microservices, déployée via Docker et orientée DevSecOps, avec authentification OAuth 2.0, chat en temps réel via WebSockets et observabilité complète.
+  - Responsabilités : Product Owner / DevSecOps / Développeur Full-Stack.
+  - Notions : architecture microservices (NestJS, Next.js, PostgreSQL + Prisma), sécurisation applicative (ModSecurity/WAF, HashiCorp Vault, JWT), CI/CD via GitHub Actions (lint, security scans Trivy/Snyk, tests unitaires et Bash), analyse de métriques personnalisées (Prometheus et Grafana), gestion des logs ELK (Elasticsearch, Logstash, Kibana), authentification OAuth 2.0 (Google), chat temps réel (Socket.io) et documentation technique complète.
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<h3 align="center">🛰️ Récents</h3>
+
+- [strudel_prod](https://github.com/Gregory-Marquiset/marquis_strudel_prod)
+  - Objectif : concevoir un environnement de **live coding musical** reproductible et portable basé sur **Strudel**, permettant de composer et performer directement depuis le navigateur, sans dépendre d’une installation locale de Node, pnpm ou tooling.
+  - Notions : live coding music (Strudel / Tidal-like patterns), application web statique, conteneurisation **Docker**, build multi-stage (Node → nginx), déploiement production local, reproductibilité des environnements, automatisation via Makefile.
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Strudel](https://img.shields.io/badge/Strudel-ff4f81?style=for-the-badge)
 
 ---
